@@ -6,6 +6,7 @@ specifiers:
   '@typescript-eslint/eslint-plugin': ^7.0.2
   '@typescript-eslint/parser': ^7.0.2
   '@vitejs/plugin-react': ^4.2.1
+  classnames: ^2.5.1
   echarts: ^5.5.0
   eslint: ^8.56.0
   eslint-plugin-react-hooks: ^4.6.0
@@ -17,6 +18,7 @@ specifiers:
   vite: ^5.1.4
 
 dependencies:
+  classnames: 2.5.1
   echarts: 5.5.0
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
@@ -1090,6 +1092,10 @@ packages:
     optionalDependencies:
       fsevents: 2.3.3
     dev: true
+
+  /classnames/2.5.1:
+    resolution: {integrity: sha512-saHYOzhIQs6wy2sVxTM6bUDsQO4F50V9RQ22qBpEdCW+I+/Wmke2HOl6lS6dTpdxVhb88/I6+Hs+438c3lfUow==}
+    dev: false
 
   /color-convert/1.9.3:
     resolution: {integrity: sha512-QfAUtd+vFdAtFQcC8CCyYt1fYWxSqAiK2cSD6zDB8N3cpsEBAvRxp9zOGg6G/SHHJYAT88/az/IuDGALsNVbGg==}
